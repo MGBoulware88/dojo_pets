@@ -1,4 +1,4 @@
-from pet import Pet, Doggo, Catto
+from pet import *
 
 class Ninja:
     def __init__(self, first, last, treats, pet_food):

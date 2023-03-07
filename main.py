@@ -1,5 +1,5 @@
 from ninja import Ninja
-from pet import Pet, Doggo, Catto
+from pet import *
 
 # lily = ["Lily", "Lhasadoodle", ["napping", "chasing flies", "following dad"], 100, 50]
 # gray = Ninja("gray", "Boulware", "dog biscuits", "kibbel", lily)
