@@ -17,12 +17,12 @@ Pets are stored in a list. Invoking a Ninja.pet method() also requires the list 
 
 ## Caring for Pets
 
-Ninjas mothods are invoked to care for their pets.
+Ninjas methods are invoked to care for their pets.
 
-/**
-  For all methods below: 
-    * target should be the idx value (int) of the target Pet
-    * target is optional and defaults to 0
+/*
+For all methods below: 
+* target should be the idx value (int) of the target Pet
+* target is optional and defaults to 0
 */
 
 Ninja.walk(target) -  invokes the Pet.play() method of self.pet[target] Pet
